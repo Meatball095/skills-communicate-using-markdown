@@ -7,3 +7,7 @@ if __name__() == '__main__':
 ```
 this is a test
 ```
+
+- [ ] Trun on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
