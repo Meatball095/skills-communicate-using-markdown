@@ -6,3 +6,5 @@
 ###### header6
 
 Test markedown headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
