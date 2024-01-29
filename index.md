@@ -1,10 +1,9 @@
-# header1
-## header2
-### header3
-#### header4
-##### header5
-###### header6
+``` python
+if __name__() == '__main__':
+  main()
+```
 
-Test markedown headers.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+this is a test
+```
